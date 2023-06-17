@@ -1,13 +1,13 @@
-#This repository contains all the projects in OASIS Infobyte Data Science internship 
+This repository contains all the projects in OASIS Infobyte Data Science internship 
 
-#Following are the tasks involved in this internship:-
+Following are the tasks involved in this internship:-
 
-#Task1:- Iris Flower Classification
+Task1:- Iris Flower Classification
 
-#Task2:- Unemployment Analysis with Python
+Task2:- Unemployment Analysis with Python
 
-#Task3:- Car Price Prediction with Machine Learning
+Task3:- Car Price Prediction with Machine Learning
 
-#Task4:- Email Spam Detection with Machine Learning
+Task4:- Email Spam Detection with Machine Learning
 
-#Task5:- Sales Prediction using Python
+Task5:- Sales Prediction using Python
