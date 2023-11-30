@@ -44,5 +44,5 @@ Potential future steps for this project include:
 
 ## Contributors
 
-- [@BISHAL GANAI](https://github.com/bishalganai05): Contributions to Task X (e.g., code, analysis, documentation)
+- [@BISHAL GANAI](https://github.com/bishalganai05): Contributions to CODE.
 
